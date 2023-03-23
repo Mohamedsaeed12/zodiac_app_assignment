@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zodiac Signs</string>
+    <string name="affirmation1">Aries</string>
+    <string name="affirmation2">Taurus</string>
+    <string name="affirmation3">Gemini</string>
+    <string name="affirmation4">Cancer</string>
+    <string name="affirmation5">Leo</string>
+    <string name="affirmation6">Virgo</string>
+    <string name="affirmation7">Libra</string>
+    <string name="affirmation8">Scorpio</string>
+    <string name="affirmation9">Sagittarius</string>
+    <string name="affirmation10">Capricorn</string>
+    <string name="affirmation11">Aquarius</string>
+    <string name="affirmation12">Pisces</string>
+</resources>
